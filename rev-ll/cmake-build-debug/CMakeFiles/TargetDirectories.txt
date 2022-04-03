@@ -1,0 +1,3 @@
+/cygdrive/e/New folder/untitled15/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/New folder/untitled15/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/e/New folder/untitled15/cmake-build-debug/CMakeFiles/untitled15.dir
